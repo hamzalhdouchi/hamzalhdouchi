@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Hamza Lhadouchi</h1>
-<h3 align="center">A passionate frontend developer from Morocco</h3>
+<h3 align="center">**Developer Web Application Full Stack**</h3>
 
 <p align="center">
   <img src="https://supermarketeur.com/wp-content/uploads/2016/06/developper-informatique-internet.jpg" alt="Hero Image" width="100%">
