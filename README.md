@@ -2,6 +2,10 @@
 
 I am Hamza Lhadouchi, a Full Stack Developer specializing in building scalable web applications. I am a tech enthusiast & a self learner passionate about creating efficient and elegant solutions.
 
+<p align="center">
+  <img src="https://user-gen-media-assets.s3.amazonaws.com/seedream_images/1b99c921-2ac8-453c-a264-a49809074881.png" alt="Backend Developer" width="100%">
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzalhdouchi" alt="hamzalhdouchi" /> </p>
 
 - 🌱 I'm currently learning **Microservices Architecture, AWS Cloud Services, and Advanced Spring Boot**
