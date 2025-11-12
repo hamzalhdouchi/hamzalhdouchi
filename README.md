@@ -93,8 +93,7 @@ I am Hamza Lhadouchi, a Full Stack Developer specializing in building scalable w
 
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 <a href="https://linkedin.com/in/hamza-lhadouchi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamza-lhadouchi" height="30" width="40" /></a>
-<a href="https://fb.com/hamza-yt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hamza-yt" height="30" width="40" /></a>
-<a href="https://instagram.com/hamza_lh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hamza_lh" height="30" width="40" /></a>
+<a href="[https://instagram.com/hamza_lh](https://www.instagram.com/hamza_lh2_/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hamza_lh" height="30" width="40" /></a>
 <a href="https://github.com/hamzalhdouchi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="hamzalhdouchi" height="30" width="40" /></a>
     
 <br>
